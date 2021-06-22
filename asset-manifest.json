@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/brtkev/trading-bot-statistics/static/css/main.3113580d.chunk.css",
-    "main.js": "/brtkev/trading-bot-statistics/static/js/main.8d67405f.chunk.js",
-    "main.js.map": "/brtkev/trading-bot-statistics/static/js/main.8d67405f.chunk.js.map",
-    "runtime-main.js": "/brtkev/trading-bot-statistics/static/js/runtime-main.a7b4e652.js",
-    "runtime-main.js.map": "/brtkev/trading-bot-statistics/static/js/runtime-main.a7b4e652.js.map",
-    "static/js/2.cddd3216.chunk.js": "/brtkev/trading-bot-statistics/static/js/2.cddd3216.chunk.js",
-    "static/js/2.cddd3216.chunk.js.map": "/brtkev/trading-bot-statistics/static/js/2.cddd3216.chunk.js.map",
-    "static/js/3.1010b445.chunk.js": "/brtkev/trading-bot-statistics/static/js/3.1010b445.chunk.js",
-    "static/js/3.1010b445.chunk.js.map": "/brtkev/trading-bot-statistics/static/js/3.1010b445.chunk.js.map",
-    "index.html": "/brtkev/trading-bot-statistics/index.html",
-    "static/css/main.3113580d.chunk.css.map": "/brtkev/trading-bot-statistics/static/css/main.3113580d.chunk.css.map",
-    "static/js/2.cddd3216.chunk.js.LICENSE.txt": "/brtkev/trading-bot-statistics/static/js/2.cddd3216.chunk.js.LICENSE.txt"
+    "main.css": "/trading-bot-statistics/static/css/main.3113580d.chunk.css",
+    "main.js": "/trading-bot-statistics/static/js/main.8d67405f.chunk.js",
+    "main.js.map": "/trading-bot-statistics/static/js/main.8d67405f.chunk.js.map",
+    "runtime-main.js": "/trading-bot-statistics/static/js/runtime-main.8edf59c8.js",
+    "runtime-main.js.map": "/trading-bot-statistics/static/js/runtime-main.8edf59c8.js.map",
+    "static/js/2.cddd3216.chunk.js": "/trading-bot-statistics/static/js/2.cddd3216.chunk.js",
+    "static/js/2.cddd3216.chunk.js.map": "/trading-bot-statistics/static/js/2.cddd3216.chunk.js.map",
+    "static/js/3.1010b445.chunk.js": "/trading-bot-statistics/static/js/3.1010b445.chunk.js",
+    "static/js/3.1010b445.chunk.js.map": "/trading-bot-statistics/static/js/3.1010b445.chunk.js.map",
+    "index.html": "/trading-bot-statistics/index.html",
+    "static/css/main.3113580d.chunk.css.map": "/trading-bot-statistics/static/css/main.3113580d.chunk.css.map",
+    "static/js/2.cddd3216.chunk.js.LICENSE.txt": "/trading-bot-statistics/static/js/2.cddd3216.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7b4e652.js",
+    "static/js/runtime-main.8edf59c8.js",
     "static/js/2.cddd3216.chunk.js",
     "static/css/main.3113580d.chunk.css",
     "static/js/main.8d67405f.chunk.js"
